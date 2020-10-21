@@ -1,0 +1,34 @@
+body{
+	font-family: Noto Sans JP;
+}
+.navbar-nav  .nav-item .nav-link{
+
+		color: #fff;
+}
+.navbar-nav  .nav-item .nav-link:hover{
+	border-bottom: 5px solid #fff;
+	color: #fff;
+	margin-top: -5px;
+}
+
+.navbar{
+	 background-color: rgba(17, 76, 150, 0.88);
+
+}
+.page-footer{
+	 background-color: rgba(17, 76, 150, 0.88);
+	 color: #fff;
+	 	position: relative;
+}
+.page-footer a{
+	color: #fff;
+}
+.box-up{
+	background-color: #fff;
+	padding:35px;
+	position: absolute;
+	box-shadow:  3px 3px 5px 6px rgba(0,0,4,0.2);
+}
+.slides{
+	position: relative;
+}
