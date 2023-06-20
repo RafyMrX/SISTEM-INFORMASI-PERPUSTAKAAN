@@ -1,0 +1,106 @@
+body {
+	font-family: Noto Sans JP;
+}
+
+.navbar-nav .nav-item .nav-link {
+	color: #fff;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+	border-bottom: 5px solid #fff;
+	color: #fff;
+	margin-top: -5px;
+}
+
+.navbar {
+	background-color: rgba(17, 76, 150, 0.90);
+}
+
+.page-footer {
+	background-color: rgba(17, 76, 150, 0.88);
+	color: #fff;
+}
+
+.page-footer a {
+	color: #fff;
+}
+
+.box-up {
+	background-color: #fff;
+	padding: 35px;
+	border-radius: 8px;
+	box-shadow: 1px 1px 3px rgba(0, 0, 4, 0.5);
+	margin-top: -131px;
+}
+
+.jbhome {
+	background-image: url("/assets/user/img/psby.jpg");
+	background-size: cover;
+	height: 600px;
+}
+
+.jumbotron .display-4 {
+	margin-top: 70px;
+	color: #fff;
+	text-shadow: 5px 5px 9px rgba(0, 0, 0, 1);
+}
+
+.jumbotron p {
+	color: #fff;
+	text-shadow: 5px 5px 9px rgba(0, 0, 0, 1);
+}
+
+.box-catalog {
+	background-color: ;
+	background-color: rgba(199, 207, 217, 0.88);
+}
+
+.links {
+	color: #000;
+	text-decoration: none;
+}
+
+.links:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+.scc {
+	border-bottom: 3px solid #e5e5e5;
+}
+
+.jbsub {
+	background-image: url("/assets/user/img/psby.jpg");
+	height: 230px;
+}
+
+.jbsub-cn {
+	margin-top: -35px;
+}
+
+.info-panel {
+	padding: 18px;
+	background-color: #ebeef1ee;
+	border-radius: 6px;
+	box-shadow: 1px 1px 3px rgba(0, 0, 1, 0.2);
+	margin-left: 17px;
+	margin-bottom: 17px;
+}
+
+.forms-usulan {
+	border-bottom: 5px solid #d7d7d7;
+	padding-bottom: 5px;
+}
+
+.box-usulan {
+	background-color: #eee;
+	padding: 17px;
+	border-radius: 8px;
+}
+
+.panel-kontak {
+	background-color: #eee;
+	padding: 12;
+	padding: 17px;
+	border-radius: 7px;
+}
